@@ -44,6 +44,20 @@ class LinkedList:
         else:
             n.next = precNoeuds.next
             precNoeuds.next = n
+    def ajoutNoeudsFinListe(self,val):
+        """
+        Ajoute un noeud à la fin d'une liste chainee
+        """
+
+        n = Node(val)
+        if self.head is None:
+            self.head = n
+            print("insertion du noeud dans la cas ou la liste chainee est vide")
+        q = self.head
+        while q.next is not None:
+            q = q.next
+        q.next = n
+
 
     def parcourtNoeud(self):
         """Parcourt les elements d'une liste chainee"""
@@ -80,4 +94,10 @@ if __name__ == "__main__":
     LChainee.parcourtNoeud()
     print()
     LChainee.ajoutApresNoeuds(n3, 12.98)
+    LChainee.parcourtNoeud()
+    print()
+    LChainee.ajoutNoeudsFinListe(14)
+    LChainee.parcourtNoeud()
+    print()
+    LChainee.ajoutNoeudsFinListe(15)
     LChainee.parcourtNoeud()
