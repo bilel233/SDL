@@ -19,3 +19,7 @@ if __name__ == "__main__":
     print(arr)
     arr.insert(5, 10000)
     print(arr)
+    # utilisation de la methode pop()
+    print(len(arr))
+    arr.pop(3)
+    print(f"le tableau avec son element supprimé {arr}")
