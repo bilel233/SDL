@@ -56,6 +56,23 @@ class LinkedList:
                 q = q.next
             print("on a finit de parcourir la liste chainee")
 
+    def suppressionNoeudFin(self):
+        """
+
+        suprime un noeud a la fin d'une liste chainee
+
+        """
+        if self.head is None:
+            print("Rien a supprimer car aucun noeud dans la liste chainee")
+        else:
+            p = self.head
+            q = self.head.next
+            while q.next is not None:
+                p = p.next
+                q = q.next
+            p.next = None
+
+
 
 if __name__ == "__main__":
     L = LinkedList()
@@ -67,3 +84,11 @@ if __name__ == "__main__":
     print()
     L.suppresionNoeudsDebut()
     L.affichageElementsNoeud()
+    L.ajoutNoeudsDebut(11)
+    L.ajoutNoeudsDebut(12)
+    L.ajoutNoeudsDebut(13)
+    L.affichageElementsNoeud()
+    print()
+    L.suppressionNoeudFin()
+    L.affichageElementsNoeud()
+    print()

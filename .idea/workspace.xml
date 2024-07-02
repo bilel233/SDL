@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="insertion d'un noeud a la fin d'une liste chainee">
-      <change afterPath="$PROJECT_DIR$/listesChaineesUnique/ex4.py" afterDir="false" />
+    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="Suppression noeuds debut liste chainee">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listesChaineesUnique/ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/listesChaineesUnique/ex4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719908008738</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Suppression noeuds debut liste chainee">
+      <option name="closed" value="true" />
+      <created>1719910716411</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719910716411</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +128,7 @@
     <MESSAGE value="recherche elements" />
     <MESSAGE value="insertion d'un noeud" />
     <MESSAGE value="insertion d'un noeud a la fin d'une liste chainee" />
-    <option name="LAST_COMMIT_MESSAGE" value="insertion d'un noeud a la fin d'une liste chainee" />
+    <MESSAGE value="Suppression noeuds debut liste chainee" />
+    <option name="LAST_COMMIT_MESSAGE" value="Suppression noeuds debut liste chainee" />
   </component>
 </project>
