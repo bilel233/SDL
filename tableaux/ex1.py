@@ -23,3 +23,8 @@ if __name__ == "__main__":
     print(len(arr))
     arr.pop(3)
     print(f"le tableau avec son element supprimé {arr}")
+    # utilisation de la methode remove
+    arr.remove(10000)
+    print(arr)
+    arr.remove(2)
+    print(arr)
