@@ -14,3 +14,8 @@ if __name__ == "__main__":
     for k in arr:
         print(k,end = " ")
     # utilisation de la methode insert(i,x)
+    arr.insert(2,100)
+    print()
+    print(arr)
+    arr.insert(5, 10000)
+    print(arr)
