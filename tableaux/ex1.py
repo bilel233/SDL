@@ -28,3 +28,6 @@ if __name__ == "__main__":
     print(arr)
     arr.remove(2)
     print(arr)
+    # utilisation de la methode reverse
+    arr.reverse()
+    print(arr)
