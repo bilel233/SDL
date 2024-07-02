@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="Suppression noeuds debut liste chainee">
+    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="utilisation de la methode pop pour les tableaux">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listesChaineesUnique/ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/listesChaineesUnique/ex4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tableaux/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/tableaux/ex1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +109,39 @@
       <option name="project" value="LOCAL" />
       <updated>1719910716411</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Suppression noeuds fin liste chainee">
+      <option name="closed" value="true" />
+      <created>1719912942218</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719912942218</updated>
+    </task>
+    <task id="LOCAL-00007" summary="utilisation de la methode append pour les tableaux">
+      <option name="closed" value="true" />
+      <created>1719923631330</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719923631330</updated>
+    </task>
+    <task id="LOCAL-00008" summary="utilisation de la methode insert pour les tableaux">
+      <option name="closed" value="true" />
+      <created>1719924138772</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719924138772</updated>
+    </task>
+    <task id="LOCAL-00009" summary="utilisation de la methode pop pour les tableaux">
+      <option name="closed" value="true" />
+      <created>1719924532227</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1719924532227</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +161,10 @@
     <MESSAGE value="insertion d'un noeud" />
     <MESSAGE value="insertion d'un noeud a la fin d'une liste chainee" />
     <MESSAGE value="Suppression noeuds debut liste chainee" />
-    <option name="LAST_COMMIT_MESSAGE" value="Suppression noeuds debut liste chainee" />
+    <MESSAGE value="Suppression noeuds fin liste chainee" />
+    <MESSAGE value="utilisation de la methode append pour les tableaux" />
+    <MESSAGE value="utilisation de la methode insert pour les tableaux" />
+    <MESSAGE value="utilisation de la methode pop pour les tableaux" />
+    <option name="LAST_COMMIT_MESSAGE" value="utilisation de la methode pop pour les tableaux" />
   </component>
 </project>
