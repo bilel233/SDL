@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="utilisation de la methode reverse pour les tableaux">
-      <change afterPath="$PROJECT_DIR$/arbreBinaireRecherche/ex1.py" afterDir="false" />
+    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="inserer un noeud dans un arbre binaire de recherche">
+      <change afterPath="$PROJECT_DIR$/listesChaineesUnique/ex5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
     "Python.ex2.executor": "Run",
     "Python.ex3.executor": "Run",
     "Python.ex4.executor": "Run",
+    "Python.ex5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
@@ -157,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719925216619</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="inserer un noeud dans un arbre binaire de recherche">
+      <option name="closed" value="true" />
+      <created>1719954462251</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1719954462251</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,6 +192,7 @@
     <MESSAGE value="utilisation de la methode pop pour les tableaux" />
     <MESSAGE value="utilisation de la methode remove pour les tableaux" />
     <MESSAGE value="utilisation de la methode reverse pour les tableaux" />
-    <option name="LAST_COMMIT_MESSAGE" value="utilisation de la methode reverse pour les tableaux" />
+    <MESSAGE value="inserer un noeud dans un arbre binaire de recherche" />
+    <option name="LAST_COMMIT_MESSAGE" value="inserer un noeud dans un arbre binaire de recherche" />
   </component>
 </project>
