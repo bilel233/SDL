@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="inserer un noeud dans un arbre binaire de recherche">
-      <change afterPath="$PROJECT_DIR$/listesChaineesUnique/ex5.py" afterDir="false" />
+    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="recuperer le noeud du milieu dans une liste chainee">
+      <change afterPath="$PROJECT_DIR$/probleme/listes/ex1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,16 +44,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.ex1.executor": "Run",
-    "Python.ex2.executor": "Run",
-    "Python.ex3.executor": "Run",
-    "Python.ex4.executor": "Run",
-    "Python.ex5.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ex1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex5.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -166,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719954462251</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="recuperer le noeud du milieu dans une liste chainee">
+      <option name="closed" value="true" />
+      <created>1720037234370</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1720037234370</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +201,7 @@
     <MESSAGE value="utilisation de la methode remove pour les tableaux" />
     <MESSAGE value="utilisation de la methode reverse pour les tableaux" />
     <MESSAGE value="inserer un noeud dans un arbre binaire de recherche" />
-    <option name="LAST_COMMIT_MESSAGE" value="inserer un noeud dans un arbre binaire de recherche" />
+    <MESSAGE value="recuperer le noeud du milieu dans une liste chainee" />
+    <option name="LAST_COMMIT_MESSAGE" value="recuperer le noeud du milieu dans une liste chainee" />
   </component>
 </project>
