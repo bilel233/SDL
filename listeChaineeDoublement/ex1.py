@@ -33,9 +33,30 @@ class LinkedList:
             while q is not None:
                 print(f"la valeur du noeud est {q.val}")
                 q = q.next
+    def insertionDebutListeChainee(self,val):
+        """
+
+        insere un noeud au debut de la liste chainee
+        """
+        n = Node(val)
+
+        if self.head is None:
+            self.head = n
+
+        else:
+            n.next = self.head
+            self.head.prec = n
+            self.head = n
+
+
 
 if __name__ == "__main__":
 
     L = LinkedList()
+    L.insertionDebutListeChainee(10)
+    L.insertionDebutListeChainee(11)
+    L.insertionDebutListeChainee(20)
+    L.insertionDebutListeChainee(121)
+    L.affichageElementsListeChainee()
 
 
