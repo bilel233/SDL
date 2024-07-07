@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="affichage elements dans liste doublements chainee">
+    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="insertion d'un noeud au debut de la liste chainee">
+      <change afterPath="$PROJECT_DIR$/listeChaineeDoublement/ex2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listeChaineeDoublement/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/listeChaineeDoublement/ex1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,7 +230,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720196942016</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="insertion d'un noeud au debut de la liste chainee">
+      <option name="closed" value="true" />
+      <created>1720197769024</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1720197769024</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -265,6 +273,7 @@
     <MESSAGE value="affichage des noeuds dans un arbre binaire de recherche" />
     <MESSAGE value="recherche un noeud dans un arbre binaire de recherche" />
     <MESSAGE value="affichage elements dans liste doublements chainee" />
-    <option name="LAST_COMMIT_MESSAGE" value="affichage elements dans liste doublements chainee" />
+    <MESSAGE value="insertion d'un noeud au debut de la liste chainee" />
+    <option name="LAST_COMMIT_MESSAGE" value="insertion d'un noeud au debut de la liste chainee" />
   </component>
 </project>
