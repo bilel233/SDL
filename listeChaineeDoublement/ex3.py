@@ -66,8 +66,8 @@ class LinkedList:
                 i+=1
             q.suivant = n
             n.precedent = q
-            n.suivant = L
-            L.precedent = n
+            n.suivant = l
+            l.precedent = n
 
 
 
@@ -86,6 +86,10 @@ if __name__ == "__main__":
     L.insertionDebutListe(1)
     L.insertionDebutListe(0)
     L.affichageElementListe()
+    print("===================================")
+    L.insertionPositionNoeud(8,1000000)
+    L.affichageElementListe()
+
 
 
 
