@@ -31,6 +31,24 @@ class LinkedList:
             self.head = n
 
 
+    def affichageElementListe(self):
+        """
+
+        affiche les elements d'une liste doublement chainee
+        """
+
+        if self.head is None:   # cas ou la liste doublement chainee est vide
+            return
+        else:
+            q = self.head
+            while q is not None:    # on parcourt la liste chainee
+                print(q.val)
+                q = q.suivant
+
+
+
+
+
 
 
 
