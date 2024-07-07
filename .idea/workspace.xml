@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="Recherche element dans une liste doublement chainee">
-      <change beforePath="$PROJECT_DIR$/listeChaineeDoublement/ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/listeChaineeDoublement/ex2.py" afterDir="false" />
+    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="Tests du code">
+      <change afterPath="$PROJECT_DIR$/listeChaineeDoublement/ex3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,7 +245,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720366987672</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="fonction insertion et affichage">
+      <option name="closed" value="true" />
+      <created>1720367602258</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1720367602258</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Tests du code">
+      <option name="closed" value="true" />
+      <created>1720367772540</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1720367772540</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -282,6 +298,8 @@
     <MESSAGE value="affichage elements dans liste doublements chainee" />
     <MESSAGE value="insertion d'un noeud au debut de la liste chainee" />
     <MESSAGE value="Recherche element dans une liste doublement chainee" />
-    <option name="LAST_COMMIT_MESSAGE" value="Recherche element dans une liste doublement chainee" />
+    <MESSAGE value="fonction insertion et affichage" />
+    <MESSAGE value="Tests du code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tests du code" />
   </component>
 </project>
