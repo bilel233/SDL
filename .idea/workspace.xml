@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="Tests du code">
-      <change afterPath="$PROJECT_DIR$/listeChaineeDoublement/ex3.py" afterDir="false" />
+    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="afficher les elements de la liste doublement chainee">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listeChaineeDoublement/ex3.py" beforeDir="false" afterPath="$PROJECT_DIR$/listeChaineeDoublement/ex3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -261,7 +262,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720367772540</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Insertion au debut der la liste doublement chainee">
+      <option name="closed" value="true" />
+      <created>1720370031014</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1720370031014</updated>
+    </task>
+    <task id="LOCAL-00026" summary="afficher les elements de la liste doublement chainee">
+      <option name="closed" value="true" />
+      <created>1720370253601</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1720370253601</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -276,7 +293,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Affichage des elements" />
     <MESSAGE value="recherche elements" />
     <MESSAGE value="insertion d'un noeud" />
     <MESSAGE value="insertion d'un noeud a la fin d'une liste chainee" />
@@ -300,6 +316,8 @@
     <MESSAGE value="Recherche element dans une liste doublement chainee" />
     <MESSAGE value="fonction insertion et affichage" />
     <MESSAGE value="Tests du code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tests du code" />
+    <MESSAGE value="Insertion au debut der la liste doublement chainee" />
+    <MESSAGE value="afficher les elements de la liste doublement chainee" />
+    <option name="LAST_COMMIT_MESSAGE" value="afficher les elements de la liste doublement chainee" />
   </component>
 </project>

@@ -45,7 +45,47 @@ class LinkedList:
                 print(q.val)
                 q = q.suivant
 
+    def insertionPositionNoeud(self,pos,val):
+        """
 
+        Insere un noeud a une position specifique
+        dans la liste
+        """
+        n = Node(val)
+
+
+        if self.head is None:   # cas ou la tete de liste est vide
+            self.head = n
+        else:
+            i = 0
+            q = self.head
+            l = self.head.suivant
+            while i < pos-1:
+                q = q.suivant
+                l = l.suivant
+                i+=1
+            q.suivant = n
+            n.precedent = q
+            n.suivant = L
+            L.precedent = n
+
+
+
+
+if __name__ == "__main__":
+    L = LinkedList()
+    L.insertionDebutListe(10)
+    L.insertionDebutListe(9)
+    L.insertionDebutListe(8)
+    L.insertionDebutListe(7)
+    L.insertionDebutListe(6)
+    L.insertionDebutListe(5)
+    L.insertionDebutListe(4)
+    L.insertionDebutListe(3)
+    L.insertionDebutListe(2)
+    L.insertionDebutListe(1)
+    L.insertionDebutListe(0)
+    L.affichageElementListe()
 
 
 
