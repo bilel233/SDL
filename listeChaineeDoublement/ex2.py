@@ -45,9 +45,41 @@ class LinkedList:
                 q = q.next
                 i = i + 1
 
+    def insertionDebutListe(self,val):
+        """
+        Insere un noeud au debut de la liste doublement chainee
+        """
+        n = Node(val)
+
+        if self.head is None:   # cas ou la liste chainee est vide
+            self.head = n
+        else:
+            n.next = self.head
+            self.head.prec = n
+            self.head = n
+
+    def affichageListe(self):
+        """
+
+        affiche les valeurs de la liste
+        """
+
+        if self.head is None:
+            return
+        else:
+            q = self.head
+            while q is not None:
+                print(q.val)
+                q = q.next
+
+
+
+
+
+
 if __name__=="__main__":
     L = LinkedList()
-    L.rechercheElement(10)
+
 
 
 
