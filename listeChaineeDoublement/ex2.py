@@ -44,6 +44,7 @@ class LinkedList:
                 # autrement, on avance dans la liste chainee
                 q = q.next
                 i = i + 1
+            return -1
 
     def insertionDebutListe(self,val):
         """
@@ -79,7 +80,14 @@ class LinkedList:
 
 if __name__=="__main__":
     L = LinkedList()
-
+    L.affichageListe()
+    L.insertionDebutListe(10)
+    L.affichageListe()
+    print()
+    L.insertionDebutListe(20)
+    L.affichageListe()
+    print(L.rechercheElement(10))
+    print(L.rechercheElement(11))
 
 
 
