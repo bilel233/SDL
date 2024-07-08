@@ -14,10 +14,29 @@ def nombresPairs(L):
         print()
         print("on a finit de parcourir la liste")
 
+def nombrePairs1(L):
+    """
+
+    affiche les entiers pairs dans la liste L
+    """
+
+    if L == []:
+        print("rien a afficher, la liste est vide")
+    else:   #on a au moins un element dans la liste L
+        i = 0
+        while i < len(L):
+            if L[i] % 2 == 0:
+                print(f"l'entier pair à l'indice {i} vaut {L[i]}")
+            i = i + 1
+        print()
+        print("on a finit de parcourir la liste ")
+
 
 if __name__ == "__main__":
     L = [1,2,3,4,5,6,10000,10001]
     nombresPairs(L)
+    print("======================")
+    print(nombrePairs1(L))
 
 
 
