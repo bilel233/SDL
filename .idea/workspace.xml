@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="Correction de la fonction insertionPositionNoeud">
-      <change afterPath="$PROJECT_DIR$/probleme/listes/ex3.py" afterDir="false" />
+    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="fonction pour afficher les entiers pair dans L avec boucle while">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/probleme/listes/ex3.py" beforeDir="false" afterPath="$PROJECT_DIR$/probleme/listes/ex3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -294,7 +294,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720371462387</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="fonction pour afficher les nombres pairs dans une liste">
+      <option name="closed" value="true" />
+      <created>1720442102984</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1720442102984</updated>
+    </task>
+    <task id="LOCAL-00030" summary="fonction pour afficher les entiers pair dans L avec boucle while">
+      <option name="closed" value="true" />
+      <created>1720442542837</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1720442542837</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -309,8 +325,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="insertion d'un noeud a la fin d'une liste chainee" />
-    <MESSAGE value="Suppression noeuds debut liste chainee" />
     <MESSAGE value="Suppression noeuds fin liste chainee" />
     <MESSAGE value="utilisation de la methode append pour les tableaux" />
     <MESSAGE value="utilisation de la methode insert pour les tableaux" />
@@ -334,6 +348,8 @@
     <MESSAGE value="afficher les elements de la liste doublement chainee" />
     <MESSAGE value="creation de la fonction insertion position Noeud" />
     <MESSAGE value="Correction de la fonction insertionPositionNoeud" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correction de la fonction insertionPositionNoeud" />
+    <MESSAGE value="fonction pour afficher les nombres pairs dans une liste" />
+    <MESSAGE value="fonction pour afficher les entiers pair dans L avec boucle while" />
+    <option name="LAST_COMMIT_MESSAGE" value="fonction pour afficher les entiers pair dans L avec boucle while" />
   </component>
 </project>

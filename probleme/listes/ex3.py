@@ -31,12 +31,25 @@ def nombrePairs1(L):
         print()
         print("on a finit de parcourir la liste ")
 
+def nombrePairs2(L):
+    """
+
+    renvoie une liste contenant tout les entiers pairs
+    """
+
+    if L == []:
+        return
+
+    return [k for k in L if k % 2 == 0]
+
 
 if __name__ == "__main__":
     L = [1,2,3,4,5,6,10000,10001]
     nombresPairs(L)
     print("======================")
-    print(nombrePairs1(L))
+    nombrePairs1(L)
+    print("======================")
+    print(nombrePairs2(L))
 
 
 
