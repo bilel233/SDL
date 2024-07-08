@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="fonction pour afficher les entiers pair dans L avec boucle while">
+    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="troisieme facon d'afficher les entiers pairs d'une liste par comprehension">
+      <change afterPath="$PROJECT_DIR$/recursivite/ex1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/probleme/listes/ex3.py" beforeDir="false" afterPath="$PROJECT_DIR$/probleme/listes/ex3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -310,7 +310,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720442542837</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="troisieme facon d'afficher les entiers pairs d'une liste par comprehension">
+      <option name="closed" value="true" />
+      <created>1720443033419</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1720443033419</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -325,7 +333,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Suppression noeuds fin liste chainee" />
     <MESSAGE value="utilisation de la methode append pour les tableaux" />
     <MESSAGE value="utilisation de la methode insert pour les tableaux" />
     <MESSAGE value="utilisation de la methode pop pour les tableaux" />
@@ -350,6 +357,7 @@
     <MESSAGE value="Correction de la fonction insertionPositionNoeud" />
     <MESSAGE value="fonction pour afficher les nombres pairs dans une liste" />
     <MESSAGE value="fonction pour afficher les entiers pair dans L avec boucle while" />
-    <option name="LAST_COMMIT_MESSAGE" value="fonction pour afficher les entiers pair dans L avec boucle while" />
+    <MESSAGE value="troisieme facon d'afficher les entiers pairs d'une liste par comprehension" />
+    <option name="LAST_COMMIT_MESSAGE" value="troisieme facon d'afficher les entiers pairs d'une liste par comprehension" />
   </component>
 </project>
