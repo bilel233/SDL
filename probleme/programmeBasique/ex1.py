@@ -20,6 +20,15 @@ s = a + b   # somme des nombres
 
 print(f"s = {s}")   # affichage de la somme
 
+# somme de deux nombres avec creation de fonction
 
+def add(a,b):
+    """renvoie la somme de deux nombres"""
+
+    return a + b
+
+# on teste la fonction
+
+print(f"somme  = {add(10,11)}")
 
 
