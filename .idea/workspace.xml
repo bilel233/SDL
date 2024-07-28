@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="troisieme facon d'afficher les entiers pairs d'une liste par comprehension">
-      <change afterPath="$PROJECT_DIR$/recursivite/ex1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="somme de deux entiers avec l'operateur &quot;+&quot;">
+      <change beforePath="$PROJECT_DIR$/probleme/programmeBasique/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/probleme/programmeBasique/ex1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -318,7 +317,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720443033419</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="somme des n premier entiers de maniere recursive">
+      <option name="closed" value="true" />
+      <created>1720472343404</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1720472343404</updated>
+    </task>
+    <task id="LOCAL-00033" summary="somme de deux entiers avec l'operateur &quot;+&quot;">
+      <option name="closed" value="true" />
+      <created>1722188581674</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1722188581674</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -333,8 +348,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="utilisation de la methode append pour les tableaux" />
-    <MESSAGE value="utilisation de la methode insert pour les tableaux" />
     <MESSAGE value="utilisation de la methode pop pour les tableaux" />
     <MESSAGE value="utilisation de la methode remove pour les tableaux" />
     <MESSAGE value="utilisation de la methode reverse pour les tableaux" />
@@ -358,6 +371,8 @@
     <MESSAGE value="fonction pour afficher les nombres pairs dans une liste" />
     <MESSAGE value="fonction pour afficher les entiers pair dans L avec boucle while" />
     <MESSAGE value="troisieme facon d'afficher les entiers pairs d'une liste par comprehension" />
-    <option name="LAST_COMMIT_MESSAGE" value="troisieme facon d'afficher les entiers pairs d'une liste par comprehension" />
+    <MESSAGE value="somme des n premier entiers de maniere recursive" />
+    <MESSAGE value="somme de deux entiers avec l'operateur &quot;+&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="somme de deux entiers avec l'operateur &quot;+&quot;" />
   </component>
 </project>
