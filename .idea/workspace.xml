@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="additionner deux nombres avec une fonction lambda">
+    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="somme de deux nombres par recursivite">
+      <change afterPath="$PROJECT_DIR$/probleme/programmeBasique/ex2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/probleme/programmeBasique/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/probleme/programmeBasique/ex1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -366,7 +366,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722242834035</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="somme de deux nombres par recursivite">
+      <option name="closed" value="true" />
+      <created>1722243465351</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1722243465351</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -381,7 +389,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="recuperer le noeud du milieu dans une liste chainee" />
     <MESSAGE value="Intervertir le premier et dernier element d'une liste" />
     <MESSAGE value="Intervertir le premier et dernier element d'une liste : 2eme version" />
     <MESSAGE value="methode naive et fonction len pour renvoyer la taille de la liste" />
@@ -406,6 +413,7 @@
     <MESSAGE value="somme de deux nombres en utilisant une fonction" />
     <MESSAGE value="additioner deux nombres avec la methode add" />
     <MESSAGE value="additionner deux nombres avec une fonction lambda" />
-    <option name="LAST_COMMIT_MESSAGE" value="additionner deux nombres avec une fonction lambda" />
+    <MESSAGE value="somme de deux nombres par recursivite" />
+    <option name="LAST_COMMIT_MESSAGE" value="somme de deux nombres par recursivite" />
   </component>
 </project>
