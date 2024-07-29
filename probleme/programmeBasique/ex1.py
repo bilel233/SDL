@@ -31,4 +31,15 @@ def add(a,b):
 
 print(f"somme  = {add(10,11)}")
 
+# ajouter deux nombres en utilsant operator.add methode
+
+from operator import add
+
+num1 = 15
+num2 = 12
+
+# additioner les nombres
+
+s = add(num1,num2)
+print(f"la somme vaut {s}")
 
