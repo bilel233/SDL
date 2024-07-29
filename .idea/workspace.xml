@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="minimum à l'aide de reduce">
-      <change afterPath="$PROJECT_DIR$/probleme/programmeBasique/ex3.py" afterDir="false" />
+    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="pgcd de deux entiers en utilisant la fonction gcd">
+      <change beforePath="$PROJECT_DIR$/probleme/programmeBasique/ex3.py" beforeDir="false" afterPath="$PROJECT_DIR$/probleme/programmeBasique/ex3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -405,7 +405,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722245446908</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="pgcd de deux entiers en utilisant la fonction gcd">
+      <option name="closed" value="true" />
+      <created>1722246205670</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1722246205670</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -420,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="affichage des noeuds dans un arbre binaire de recherche" />
     <MESSAGE value="recherche un noeud dans un arbre binaire de recherche" />
     <MESSAGE value="affichage elements dans liste doublements chainee" />
     <MESSAGE value="insertion d'un noeud au debut de la liste chainee" />
@@ -445,6 +452,7 @@
     <MESSAGE value="minimum à l'aide de la fonction min" />
     <MESSAGE value="minimum à l'aide de la fonction sorted" />
     <MESSAGE value="minimum à l'aide de reduce" />
-    <option name="LAST_COMMIT_MESSAGE" value="minimum à l'aide de reduce" />
+    <MESSAGE value="pgcd de deux entiers en utilisant la fonction gcd" />
+    <option name="LAST_COMMIT_MESSAGE" value="pgcd de deux entiers en utilisant la fonction gcd" />
   </component>
 </project>
