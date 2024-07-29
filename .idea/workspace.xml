@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="somme de deux nombres par recursivite">
-      <change afterPath="$PROJECT_DIR$/probleme/programmeBasique/ex2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="minimum à l'aide de la fonction min" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -374,7 +371,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722243465351</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="minimum de deux nombres">
+      <option name="closed" value="true" />
+      <created>1722244302867</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1722244302867</updated>
+    </task>
+    <task id="LOCAL-00040" summary="minimum à l'aide de la fonction min">
+      <option name="closed" value="true" />
+      <created>1722244480277</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1722244480277</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -389,8 +402,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Intervertir le premier et dernier element d'une liste" />
-    <MESSAGE value="Intervertir le premier et dernier element d'une liste : 2eme version" />
     <MESSAGE value="methode naive et fonction len pour renvoyer la taille de la liste" />
     <MESSAGE value="insertion d'un noeud dans un arbre binaire de recherche" />
     <MESSAGE value="affichage des noeuds dans un arbre binaire de recherche" />
@@ -414,6 +425,8 @@
     <MESSAGE value="additioner deux nombres avec la methode add" />
     <MESSAGE value="additionner deux nombres avec une fonction lambda" />
     <MESSAGE value="somme de deux nombres par recursivite" />
-    <option name="LAST_COMMIT_MESSAGE" value="somme de deux nombres par recursivite" />
+    <MESSAGE value="minimum de deux nombres" />
+    <MESSAGE value="minimum à l'aide de la fonction min" />
+    <option name="LAST_COMMIT_MESSAGE" value="minimum à l'aide de la fonction min" />
   </component>
 </project>
