@@ -49,3 +49,13 @@ s = lambda x,y:x+y
 
 print(f"la somme s vaut  {s(1,2)}")
 
+# additionner deux nombres avec une fonction recursive
+
+def add_numbers(x,y):
+    """ renvoie la somme de deux nombres"""
+
+    if y == 0:
+        return x
+    return add_numbers(x+1,y-1)
+
+print(f"s = {add_numbers(2,3)}")

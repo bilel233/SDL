@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="somme de deux nombres en utilisant une fonction">
+    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="additionner deux nombres avec une fonction lambda">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/probleme/programmeBasique/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/probleme/programmeBasique/ex1.py" afterDir="false" />
     </list>
@@ -350,7 +350,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722189131503</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="additioner deux nombres avec la methode add">
+      <option name="closed" value="true" />
+      <created>1722242620924</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1722242620924</updated>
+    </task>
+    <task id="LOCAL-00037" summary="additionner deux nombres avec une fonction lambda">
+      <option name="closed" value="true" />
+      <created>1722242834035</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1722242834035</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -365,8 +381,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="utilisation de la methode reverse pour les tableaux" />
-    <MESSAGE value="inserer un noeud dans un arbre binaire de recherche" />
     <MESSAGE value="recuperer le noeud du milieu dans une liste chainee" />
     <MESSAGE value="Intervertir le premier et dernier element d'une liste" />
     <MESSAGE value="Intervertir le premier et dernier element d'une liste : 2eme version" />
@@ -390,6 +404,8 @@
     <MESSAGE value="somme de deux entiers avec l'operateur &quot;+&quot;" />
     <MESSAGE value="somme de deux nombres a l'aide de l'operateur input" />
     <MESSAGE value="somme de deux nombres en utilisant une fonction" />
-    <option name="LAST_COMMIT_MESSAGE" value="somme de deux nombres en utilisant une fonction" />
+    <MESSAGE value="additioner deux nombres avec la methode add" />
+    <MESSAGE value="additionner deux nombres avec une fonction lambda" />
+    <option name="LAST_COMMIT_MESSAGE" value="additionner deux nombres avec une fonction lambda" />
   </component>
 </project>
