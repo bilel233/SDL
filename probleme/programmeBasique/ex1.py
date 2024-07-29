@@ -43,3 +43,9 @@ num2 = 12
 s = add(num1,num2)
 print(f"la somme vaut {s}")
 
+#utilisation de la methode lambda fonction
+
+s = lambda x,y:x+y
+
+print(f"la somme s vaut  {s(1,2)}")
+
