@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="minimum à l'aide de la fonction min" />
+    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="minimum à l'aide de la fonction sorted">
+      <change beforePath="$PROJECT_DIR$/probleme/programmeBasique/ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/probleme/programmeBasique/ex2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -387,7 +389,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722244480277</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="minimum à l'aide de la fonction sorted">
+      <option name="closed" value="true" />
+      <created>1722244780077</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1722244780077</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -402,7 +412,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="methode naive et fonction len pour renvoyer la taille de la liste" />
     <MESSAGE value="insertion d'un noeud dans un arbre binaire de recherche" />
     <MESSAGE value="affichage des noeuds dans un arbre binaire de recherche" />
     <MESSAGE value="recherche un noeud dans un arbre binaire de recherche" />
@@ -427,6 +436,7 @@
     <MESSAGE value="somme de deux nombres par recursivite" />
     <MESSAGE value="minimum de deux nombres" />
     <MESSAGE value="minimum à l'aide de la fonction min" />
-    <option name="LAST_COMMIT_MESSAGE" value="minimum à l'aide de la fonction min" />
+    <MESSAGE value="minimum à l'aide de la fonction sorted" />
+    <option name="LAST_COMMIT_MESSAGE" value="minimum à l'aide de la fonction sorted" />
   </component>
 </project>

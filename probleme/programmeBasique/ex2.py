@@ -1,5 +1,6 @@
 # recuperer le minimum de deux nombres
 
+from functools import reduce
 def minimum(a,b):
     """
     renvoie le minimum de deux nombres
@@ -26,3 +27,6 @@ if __name__=="__main__":
     L1 = sorted(L)   # on trie la liste de facon croissante
     print(f"la valeur minimale est {L1[0]} ")
 
+    # en utilisant la fonction reduce
+    L0 = [1,2,3,10,11,23]
+    print(f"le minimum en utilisant la fonction reduce est {reduce(minimum,L0)}")
