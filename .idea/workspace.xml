@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="pgcd de deux entiers en utilisant la fonction gcd">
-      <change beforePath="$PROJECT_DIR$/probleme/programmeBasique/ex3.py" beforeDir="false" afterPath="$PROJECT_DIR$/probleme/programmeBasique/ex3.py" afterDir="false" />
+    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="pgcd de deux entiers en utilisant la fonction recursive">
+      <change afterPath="$PROJECT_DIR$/listesChaineeCirculaire/intro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,16 +44,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.ex1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex5.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ex1.executor": "Run",
+    "Python.ex2.executor": "Run",
+    "Python.ex3.executor": "Run",
+    "Python.ex4.executor": "Run",
+    "Python.ex5.executor": "Run",
+    "Python.intro.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -413,7 +415,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722246205670</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="pgcd de deux entiers en utilisant la fonction recursive">
+      <option name="closed" value="true" />
+      <created>1722246826706</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1722246826706</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -428,7 +438,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="recherche un noeud dans un arbre binaire de recherche" />
     <MESSAGE value="affichage elements dans liste doublements chainee" />
     <MESSAGE value="insertion d'un noeud au debut de la liste chainee" />
     <MESSAGE value="Recherche element dans une liste doublement chainee" />
@@ -453,6 +462,7 @@
     <MESSAGE value="minimum à l'aide de la fonction sorted" />
     <MESSAGE value="minimum à l'aide de reduce" />
     <MESSAGE value="pgcd de deux entiers en utilisant la fonction gcd" />
-    <option name="LAST_COMMIT_MESSAGE" value="pgcd de deux entiers en utilisant la fonction gcd" />
+    <MESSAGE value="pgcd de deux entiers en utilisant la fonction recursive" />
+    <option name="LAST_COMMIT_MESSAGE" value="pgcd de deux entiers en utilisant la fonction recursive" />
   </component>
 </project>
