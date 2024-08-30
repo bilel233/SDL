@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="ajouter un noeud dans une liste chainee circulaire">
-      <change beforePath="$PROJECT_DIR$/listesChaineeCirculaire/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/listesChaineeCirculaire/ex1.py" afterDir="false" />
+    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="insertion d'un noeud au debut de la liste chainee circulaire">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -438,7 +438,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722267938045</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="insertion d'un noeud au debut de la liste chainee circulaire">
+      <option name="closed" value="true" />
+      <created>1722268572117</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1722268572117</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -453,7 +461,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Recherche element dans une liste doublement chainee" />
     <MESSAGE value="fonction insertion et affichage" />
     <MESSAGE value="Tests du code" />
     <MESSAGE value="Insertion au debut der la liste doublement chainee" />
@@ -478,6 +485,7 @@
     <MESSAGE value="pgcd de deux entiers en utilisant la fonction recursive" />
     <MESSAGE value="modelisation d'une liste simple doublement chainee" />
     <MESSAGE value="ajouter un noeud dans une liste chainee circulaire" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajouter un noeud dans une liste chainee circulaire" />
+    <MESSAGE value="insertion d'un noeud au debut de la liste chainee circulaire" />
+    <option name="LAST_COMMIT_MESSAGE" value="insertion d'un noeud au debut de la liste chainee circulaire" />
   </component>
 </project>
