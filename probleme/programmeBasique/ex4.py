@@ -27,3 +27,12 @@ def add(a,b):
 
 print(f"la somme des deux nombres vaut :  {add(1,2)}")
 
+# utilisation de la methode add
+
+from operator import add
+
+a = 12
+b = 13
+
+s = add(12,13)
+print(f"la somme en utilisant la methode add vaut {s}")

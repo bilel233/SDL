@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="premiere version du programme somme" />
+    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="3 version du programme somme" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,14 +67,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719862716591</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Affichage des elements">
-      <option name="closed" value="true" />
-      <created>1719865003766</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1719865003766</updated>
     </task>
     <task id="LOCAL-00002" summary="recherche elements">
       <option name="closed" value="true" />
@@ -452,7 +444,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725008482504</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="seconde version du programme somme">
+      <option name="closed" value="true" />
+      <created>1725008771526</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1725008771526</updated>
+    </task>
+    <task id="LOCAL-00050" summary="3 version du programme somme">
+      <option name="closed" value="true" />
+      <created>1725008998463</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1725008998464</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -467,8 +475,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Tests du code" />
-    <MESSAGE value="Insertion au debut der la liste doublement chainee" />
     <MESSAGE value="afficher les elements de la liste doublement chainee" />
     <MESSAGE value="creation de la fonction insertion position Noeud" />
     <MESSAGE value="Correction de la fonction insertionPositionNoeud" />
@@ -492,6 +498,8 @@
     <MESSAGE value="ajouter un noeud dans une liste chainee circulaire" />
     <MESSAGE value="insertion d'un noeud au debut de la liste chainee circulaire" />
     <MESSAGE value="premiere version du programme somme" />
-    <option name="LAST_COMMIT_MESSAGE" value="premiere version du programme somme" />
+    <MESSAGE value="seconde version du programme somme" />
+    <MESSAGE value="3 version du programme somme" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 version du programme somme" />
   </component>
 </project>
