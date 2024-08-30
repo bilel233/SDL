@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="ajouter un noeud dans une liste chainee circulaire">
-      <change beforePath="$PROJECT_DIR$/listesChaineeCirculaire/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/listesChaineeCirculaire/ex1.py" afterDir="false" />
-    </list>
+    <list default="true" id="b0de8d9b-664b-4794-a1ce-7205e6e6d8a1" name="Changes" comment="3 version du programme somme" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,17 +41,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.ex1.executor": "Run",
-    "Python.ex2.executor": "Run",
-    "Python.ex3.executor": "Run",
-    "Python.ex4.executor": "Run",
-    "Python.ex5.executor": "Run",
-    "Python.intro.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ex1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.intro.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -69,14 +67,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719862716591</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Affichage des elements">
-      <option name="closed" value="true" />
-      <created>1719865003766</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1719865003766</updated>
     </task>
     <task id="LOCAL-00002" summary="recherche elements">
       <option name="closed" value="true" />
@@ -438,7 +428,39 @@
       <option name="project" value="LOCAL" />
       <updated>1722267938045</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="insertion d'un noeud au debut de la liste chainee circulaire">
+      <option name="closed" value="true" />
+      <created>1722268572117</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1722268572117</updated>
+    </task>
+    <task id="LOCAL-00048" summary="premiere version du programme somme">
+      <option name="closed" value="true" />
+      <created>1725008482504</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1725008482504</updated>
+    </task>
+    <task id="LOCAL-00049" summary="seconde version du programme somme">
+      <option name="closed" value="true" />
+      <created>1725008771526</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1725008771526</updated>
+    </task>
+    <task id="LOCAL-00050" summary="3 version du programme somme">
+      <option name="closed" value="true" />
+      <created>1725008998463</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1725008998464</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -453,10 +475,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Recherche element dans une liste doublement chainee" />
-    <MESSAGE value="fonction insertion et affichage" />
-    <MESSAGE value="Tests du code" />
-    <MESSAGE value="Insertion au debut der la liste doublement chainee" />
     <MESSAGE value="afficher les elements de la liste doublement chainee" />
     <MESSAGE value="creation de la fonction insertion position Noeud" />
     <MESSAGE value="Correction de la fonction insertionPositionNoeud" />
@@ -478,6 +496,10 @@
     <MESSAGE value="pgcd de deux entiers en utilisant la fonction recursive" />
     <MESSAGE value="modelisation d'une liste simple doublement chainee" />
     <MESSAGE value="ajouter un noeud dans une liste chainee circulaire" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajouter un noeud dans une liste chainee circulaire" />
+    <MESSAGE value="insertion d'un noeud au debut de la liste chainee circulaire" />
+    <MESSAGE value="premiere version du programme somme" />
+    <MESSAGE value="seconde version du programme somme" />
+    <MESSAGE value="3 version du programme somme" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 version du programme somme" />
   </component>
 </project>
