@@ -36,3 +36,8 @@ b = 13
 
 s = add(12,13)
 print(f"la somme en utilisant la methode add vaut {s}")
+
+# en utilisant la fonction lambda
+
+l = lambda x,y:x+y
+print(f"la somme en utilisant une fonction lambda vaut : {l(1,10)}")
