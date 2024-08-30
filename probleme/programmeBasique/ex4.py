@@ -18,3 +18,12 @@ som = float(n1) + float(n2) # somme des entiers
 
 print(f"la somme vaut {som}")
 
+# additioner deux nombres a l'aide d'une fonction
+
+def add(a,b):
+    """renvoie la somme de deux nombres"""
+
+    return a + b
+
+print(f"la somme des deux nombres vaut :  {add(1,2)}")
+
